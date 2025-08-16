@@ -1,0 +1,3 @@
+00000001John Doe                      A
+00000002Maria Gomez                   I
+00000003Carlos Lopez                  A
