@@ -1,6 +1,6 @@
 000100 IDENTIFICATION DIVISION. 
 000105*                                                        *
-000110 PROGRAM-ID PGMAPJ1D. 
+000110 PROGRAM-ID PGMMATCH. 
 000120**********************************************************
 000130*                                                        *
 000140*    MATCHING code                                       *
